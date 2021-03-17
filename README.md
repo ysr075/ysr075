@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @ysr075
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on pretty much nothing.
-- 📫 How to reach me just don't.
+Hi, I’m @ysr075.
+that's pretty much it.
 
 <!---
 ysr075/ysr075 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
